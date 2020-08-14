@@ -1,4 +1,5 @@
-//package homework03;
+package com.dtcc.calculator;
+import java.util.Scanner;
 
 /*CLI Calculator - Part One
  * Authors : Juaniesha and Charu*/
