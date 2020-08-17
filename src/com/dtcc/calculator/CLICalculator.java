@@ -12,7 +12,7 @@ public class CLICalculator {
 			Scanner input = new Scanner(System.in);
 			
 			System.out.println("Welcome to the CLI Calculator");
-			System.out.println("Operations: \n1:Addition \n2:Subtraction \n3:Multiplication \n4:Division");
+			System.out.println("Operations: \na:Addition \ns:Subtraction \nm:Multiplication \nd:Division \ne:Exit");
 			System.out.println("\nChoose your operation: ");
 			int operation = input.nextInt();
 			System.out.println("\nFirst Number: ");
