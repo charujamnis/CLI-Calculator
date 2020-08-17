@@ -2,6 +2,7 @@ package com.dtcc.calculator;
 import java.util.Scanner;
 
 /*CLI Calculator - Part One
+ * CLI Calculator - Part Two
  * Authors : Juaniesha and Charu*/
 
 public class CLICalculator {
@@ -53,7 +54,7 @@ public class CLICalculator {
 			}
 			else
 			{
-				System.out.println("Please enter valid operation number.");
+				System.out.println("Please enter valid operation number...");
 			}
 	}
 
